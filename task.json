@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Bus washer AM",
+        "scheduledStart": "2020-12-01T06:00:00.000",
+        "scheduledEnd": "2020-12-01T09:00:00.000",
+        "childCheckRequired": false,
+        "manualSignOut": false,
+        "manualSignIn": false,
+        "earlySignIn": null,
+        "earlySignOut": null,
+        "lateSignIn": null,
+        "lateSignOut": null,
+        "signInLocationRequired": true,
+        "signOutLocationRequired": true
+    }
+]
